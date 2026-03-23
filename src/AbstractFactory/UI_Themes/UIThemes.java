@@ -1,4 +1,4 @@
-package AbstractFactory;
+package AbstractFactory.UI_Themes;
 
 public class UIThemes {
     public static void main(String[] args) {
