@@ -1,4 +1,4 @@
-package AbstractPattern;
+package AbstractPattern.ChargingAdapter;
 
 public interface Charger {
     void charge();
