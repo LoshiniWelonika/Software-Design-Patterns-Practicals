@@ -1,4 +1,4 @@
-package AbstractPattern.ChargingAdapter;
+package AdapterPattern.ChargingAdapter;
 
 public class OldCharger {
     public void oldCharge(){

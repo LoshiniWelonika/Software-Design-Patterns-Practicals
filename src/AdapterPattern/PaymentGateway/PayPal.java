@@ -1,4 +1,4 @@
-package AbstractPattern.PaymentGateway;
+package AdapterPattern.PaymentGateway;
 
 class PayPal {
     public void sendPayment(double amount){

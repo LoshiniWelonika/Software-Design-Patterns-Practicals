@@ -1,4 +1,4 @@
-package AbstractPattern.MediaPlayer;
+package AdapterPattern.MediaPlayer;
 
 public class MP4Player {
     public void playMP4(String file){

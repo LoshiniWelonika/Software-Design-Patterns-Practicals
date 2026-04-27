@@ -1,4 +1,4 @@
-package AbstractPattern.MediaPlayer;
+package AdapterPattern.MediaPlayer;
 
 public class Main {
     public static void main(String[] args) {

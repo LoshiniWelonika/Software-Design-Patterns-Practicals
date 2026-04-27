@@ -1,4 +1,4 @@
-package AbstractPattern.LegacySystemIntergration;
+package AdapterPattern.LegacySystemIntergration;
 
 public class SystemAdapter implements ModernSystem{
     private LegacySystem legacy;

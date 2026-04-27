@@ -1,4 +1,4 @@
-package AbstractPattern.ChargingAdapter;
+package AdapterPattern.ChargingAdapter;
 
 public class Main {
     public static void main(String[] args) {

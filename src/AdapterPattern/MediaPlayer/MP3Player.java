@@ -1,4 +1,4 @@
-package AbstractPattern.MediaPlayer;
+package AdapterPattern.MediaPlayer;
 
 class MP3Player implements MediaPlayer{
     public void play(String file) {

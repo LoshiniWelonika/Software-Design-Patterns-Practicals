@@ -1,4 +1,4 @@
-package AbstractPattern.MediaPlayer;
+package AdapterPattern.MediaPlayer;
 
 class MediaAdapter implements MediaPlayer {
     private MP4Player mp4Player;

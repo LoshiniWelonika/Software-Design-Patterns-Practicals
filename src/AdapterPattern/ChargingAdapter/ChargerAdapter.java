@@ -1,4 +1,4 @@
-package AbstractPattern.ChargingAdapter;
+package AdapterPattern.ChargingAdapter;
 
 public class ChargerAdapter implements Charger{
     private OldCharger oldCharger;

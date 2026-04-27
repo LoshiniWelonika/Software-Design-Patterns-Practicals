@@ -1,4 +1,4 @@
-package AbstractPattern.PaymentGateway;
+package AdapterPattern.PaymentGateway;
 
 public class PaymentAdapter implements Payment {
     private PayPal paypal;
