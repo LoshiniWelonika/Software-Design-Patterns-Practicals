@@ -1,0 +1,10 @@
+package DecoratorPattern.Coffee_Customization;
+
+// CoffeeDecorator.java
+abstract class CoffeeDecorator implements Coffee {
+    protected Coffee coffee;
+
+    public CoffeeDecorator(Coffee coffee) {
+        this.coffee = coffee;
+    }
+}
