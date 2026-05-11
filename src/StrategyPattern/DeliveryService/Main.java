@@ -1,4 +1,4 @@
-package StrategyPattern.NavigationSystem.DeliveryService;
+package StrategyPattern.DeliveryService;
 
 public class Main {
     public static void main(String[] args) {

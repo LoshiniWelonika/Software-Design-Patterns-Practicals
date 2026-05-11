@@ -1,4 +1,4 @@
-package StrategyPattern.NavigationSystem.DeliveryService;
+package StrategyPattern.DeliveryService;
 
 class StandardDelivery implements DeliveryStrategy {
     public void deliver() {
