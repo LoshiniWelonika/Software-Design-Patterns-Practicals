@@ -1,0 +1,9 @@
+package Assignment.Strategy;
+
+public class MasterCardPayment implements PaymentStrategy {
+
+    @Override
+    public void pay(double amount) {
+        System.out.println("Paid $" + amount + " using MasterCard");
+    }
+}
